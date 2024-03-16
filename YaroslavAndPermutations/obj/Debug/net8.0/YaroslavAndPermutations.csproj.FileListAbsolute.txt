@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\bin\Debug\net8.0\YaroslavAndPermutations.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\bin\Debug\net8.0\YaroslavAndPermutations.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\bin\Debug\net8.0\YaroslavAndPermutations.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\bin\Debug\net8.0\YaroslavAndPermutations.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\bin\Debug\net8.0\YaroslavAndPermutations.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\refint\YaroslavAndPermutations.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\YaroslavAndPermutations.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\YaroslavAndPermutations\YaroslavAndPermutations\obj\Debug\net8.0\ref\YaroslavAndPermutations.dll
